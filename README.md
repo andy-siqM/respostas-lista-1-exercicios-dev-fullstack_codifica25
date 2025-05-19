@@ -12,8 +12,7 @@ O objetivo é continuar estudando mais sobre as funcionalidades e aplicações d
   </br>
   Para executar este projeto em sua máquina local, antes, instale os seguintes softwares:</br>
   [Node.js](https://nodejs.org/pt) - execução das dependências do projeto</br>
-  [Git](https://git-scm.com/downloads) - Serve para clonar o repositório remoto em sua máquina
-</br>
+  [Git](https://git-scm.com/downloads) - Serve para clonar o repositório remoto em sua máquina</br>
 
 <summary>
   Passo 2: Clone o repositório
@@ -26,14 +25,14 @@ cd respostas-lista-1-exercicios-dev-fullstack_codifica25
 
   Instale o arquivo `package.json` para inicializar todas as dependências necessárias
   
-    ```bash
+  ```bash
     npm start
-    ```
+  ```
 Ou execute diretamente o arquivo principal:
 
-    ```bash
+  ```bash
     npm script.js
-    ```
+  ```
 
 ## 🤝 Como contribuir
 Caso queira contribuir com este projeto, primeiro, mantenha sua cópia local do repositório atualizado com o repositório original remoto.
