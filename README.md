@@ -8,25 +8,29 @@ O objetivo é continuar estudando mais sobre as funcionalidades e aplicações d
 <summary>
   Passo 1: Pré-requisitos
 </summary>
+
   Para executar este projeto em sua máquina local, antes, instale os seguintes softwares:</br>
-  [Node.js](https://nodejs.org/pt) - execução das depedências do projeto
+  [Node.js](https://nodejs.org/pt) - execução das dependências do projeto
   [Git}(https://git-scm.com/downloads) - Serve para clonar o repositório remoto em sua máquina
 
 <summary>
   Passo 2: Clone o repositório
 </summary>
+
   ```bash
 git clone https://github.com/<seu-user-github>/respostas-lista-1-exercicios-dev-fullstack_codifica25.git
 cd respostas-lista-1-exercicios-dev-fullstack_codifica25
   ```
   Instale o arquivo `package.json` para inicializar todas as dependências necessárias
+  
     ```bash
 npm start
-  ```
-  Ou execute diretamente o arquivo principal:
+    ```
+Ou execute diretamente o arquivo principal:
+
     ```bash
 npm script.js
-  ```
+    ```
 
 ## 🤝 Como contribuir
 Caso queira contribuir com este projeto, primeiro, mantenha sua cópia local do repositório atualizado com o repositório original remoto.
