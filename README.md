@@ -65,9 +65,9 @@ Depois, dê o `push` para o seu repositório remoto:
 git push origin nova-branch
   ```
 
-Por fim, acesse a página do repositório no [Git Hub](https://github.com/) e crie uma `pull request` na aba Pull Request!
+Por fim, acesse a página do repositório no [Git Hub](https://github.com/) e crie uma `pull request` na aba Pull Requests!
 
-Avaliarei sua solicitação e, se for válida, incluirei na branch principal do projeto 😃
+Avaliarei sua solicitação e, se for válida, incluirei na branch principal do projeto 🫡
 
 Muito obrigada pela atenção e interesse no projeto! Vamos juntos 🚀
 
