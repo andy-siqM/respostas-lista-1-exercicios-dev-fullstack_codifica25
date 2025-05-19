@@ -13,7 +13,7 @@ O objetivo é continuar estudando mais sobre as funcionalidades e aplicações d
   Para executar este projeto em sua máquina local, antes, instale os seguintes softwares:</br>
   [Node.js](https://nodejs.org/pt) - execução das dependências do projeto</br>
   [Git](https://git-scm.com/downloads) - Serve para clonar o repositório remoto em sua máquina</br>
-
+  </br>
 <summary>
   Passo 2: Clone o repositório
 </summary>
