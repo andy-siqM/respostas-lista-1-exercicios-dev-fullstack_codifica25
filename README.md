@@ -5,10 +5,11 @@ Projeto referente ao curso **Dev Full Stack Júnior 2025**, organizado pela Codi
 O objetivo é continuar estudando mais sobre as funcionalidades e aplicações do Javascript, sobretudo para criação de aplicações web responsivas!
 
 ## 💻 Como instalar
+
 <summary>
   Passo 1: Pré-requisitos
 </summary>
-
+  </br>
   Para executar este projeto em sua máquina local, antes, instale os seguintes softwares:</br>
   [Node.js](https://nodejs.org/pt) - execução das dependências do projeto
   [Git}(https://git-scm.com/downloads) - Serve para clonar o repositório remoto em sua máquina
@@ -16,7 +17,7 @@ O objetivo é continuar estudando mais sobre as funcionalidades e aplicações d
 <summary>
   Passo 2: Clone o repositório
 </summary>
-
+  </br>
   ```bash
 git clone https://github.com/<seu-user-github>/respostas-lista-1-exercicios-dev-fullstack_codifica25.git
 cd respostas-lista-1-exercicios-dev-fullstack_codifica25
@@ -58,7 +59,7 @@ Depois, dê o `push` para o seu repositório remoto:
 git push origin nova-branch
   ```
 
-Por fim, acesse a página do repositório no [Git Hub](github.com) e crie uma `pull request` na aba Pull Request!
+Por fim, acesse a página do repositório no [Git Hub](https://github.com/) e crie uma `pull request` na aba Pull Request!
 
 Avaliarei sua solicitação e, se for válida, incluirei na branch principal do projeto 😃
 
