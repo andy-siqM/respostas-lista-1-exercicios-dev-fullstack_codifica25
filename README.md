@@ -2,6 +2,7 @@
 Código-fonte que responde aos 15 exercícios obrigatórios acerca de lógica de programação (if/else, array, loop for/while, leitura, prompt e TADs) </br>
 </br>
 Projeto referente ao curso **Dev Full Stack Júnior 2025**, organizado pela Codifica no programa MaisPraTi </br>
+</br>
 O objetivo é continuar estudando mais sobre as funcionalidades e aplicações do Javascript, sobretudo para criação de aplicações web responsivas!
 
 ## 💻 Como instalar
